@@ -30,7 +30,7 @@ public class Main {
         //analyzer.salaryOver(2.000);
 
         //analyzer.oldestEmployee(2);
-        //analyzer.firstOlder(20);
+        analyzer.firstOlder(20);
         analyzer.averageSalary();
         analyzer.commonList(departmentList2);
 
