@@ -31,7 +31,7 @@ public class Main {
 
         //analyzer.oldestEmployee(2);
         //analyzer.firstOlder(20);
-        System.out.println(analyzer.averageSalary());
+        analyzer.averageSalary();
         analyzer.commonList(departmentList2);
 
     }
