@@ -1,34 +1,34 @@
 # Analyzer
 
-Este projeto é uma aplicação Java simples para análise de funcionários (Employee). O objetivo é demonstrar manipulação de objetos, leitura de dados e análise de informações relacionadas a funcionários.
+This project is a simple Java application for employee analysis. The goal is to demonstrate object manipulation, data reading, and information analysis related to employees.
 
-## Estrutura do Projeto
+## Project Structure
 
-- `Employee.java`: Classe que representa um funcionário, com atributos como nome, idade, salário e anos de trabalho.
-- `Analyzer.java`: Classe responsável por realizar análises sobre os funcionários (ex: calcular médias, filtrar dados, etc).
-- `Main.java`: Classe principal que executa a aplicação.
+- `Employee.java`: Class representing an employee, with attributes such as name, age, salary, and years of work.
+- `Analyzer.java`: Class responsible for performing analyses on employees (e.g., calculating averages, filtering data, etc).
+- `Main.java`: Main class that runs the application.
 
-## Como Executar
+## How to Run
 
-1. Certifique-se de ter o Java instalado (JDK 8 ou superior).
-2. Compile os arquivos:
+1. Make sure you have Java installed (JDK 8 or higher).
+2. Compile the files:
    ```sh
    javac *.java
    ```
-3. Execute a aplicação:
+3. Run the application:
    ```sh
    java Main
    ```
 
-## Funcionalidades
+## Features
 
-- Cadastro de funcionários
-- Análise de dados dos funcionários (exemplo: média salarial, filtragem por anos de trabalho)
+- Employee registration
+- Employee data analysis (e.g., average salary, filtering by years of work)
 
-## Contribuição
+## Contribution
 
-Sinta-se à vontade para abrir issues ou pull requests para melhorias.
+Feel free to open issues or pull requests for improvements.
 
-## Licença
+## License
 
-Este projeto é apenas para fins educacionais.
+This project is for educational purposes only.
